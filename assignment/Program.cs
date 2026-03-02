@@ -17,8 +17,13 @@ namespace assignment
 
             #region question2
             //Q2 :  What is the difference between method overloading and method overriding?
-          // Console.WriteLine("Overloading : Same name, different parameters \n Overriding : Same name, same parameters"); 
+            // Console.WriteLine("Overloading : Same name, different parameters \n Overriding : Same name, same parameters"); 
 
+            #endregion
+
+            #region question3
+            //What keywords are used for Method Overriding? What does each one mean ?
+           //onsole.WriteLine("virtual → Allows overriding.\r\n\r\n Oerride → Performs overriding.");  
             #endregion
         }
     }
